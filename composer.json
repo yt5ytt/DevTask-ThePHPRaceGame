@@ -1,0 +1,19 @@
+{
+    "name": "alexwebsoft/dev-task",
+    "description": "This is dev task for Katipult",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Aleksandar Safranec",
+            "email": "yt5ytt@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Src\\": "./src/"
+      }
+    }
+}
